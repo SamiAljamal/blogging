@@ -1,0 +1,39 @@
+body{
+  background-color: #C8AFC6;
+}
+.intro{
+  color: #565456;
+  font-size: 20px;
+  text-align: left;
+}
+h2{
+  text-decoration: underline;
+
+}
+.comedies{
+  font-size: 18px;
+  text-indent: inherit;
+  font-family: arial;
+}
+.Dramas{
+  color: green;
+  font-size: 18px;
+  font-family: arial;
+}
+.Romances{
+  color: red;
+  font-size: 18px;
+  font-family: arial;
+}
+.aboutme{
+  color: purple;
+  font-size: 12px;
+}
+.lovers{
+  color: pink;
+  font-weight: bolder;
+}
+.crazy{
+  font-size: 40px;
+  font-family: fantasy;
+}
